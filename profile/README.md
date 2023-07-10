@@ -2,7 +2,7 @@
 
 FarLands is a Minecraft 1.20.1 semi-vanilla server with a few added features to make gameplay more fun and enjoyable.
 
-Server Address: **`FarLandsMC.net`**  
+Server Address: **`farlandsmc.net`**  
 
 ## Plugins
 
