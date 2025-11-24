@@ -1,4 +1,4 @@
-![](./img/header.png)
+<img src="./img/header.png" width="100%" />
 
 # FarLands MC
 
